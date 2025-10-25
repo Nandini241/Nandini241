@@ -1,5 +1,6 @@
-Hi there, I'm Nandini241 👋
+Hi there, I'm Nandini41 👋
 
+I'm currently learning Full-stack development
 <!--
 **Nandini241/Nandini241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
